@@ -56,7 +56,6 @@ public class Second_Screen extends AppCompatActivity {
                 line2.setVisibility(View.VISIBLE);
                 line1.setVisibility(View.INVISIBLE);
                 line3.setVisibility(View.INVISIBLE);
-                setContentView(R.layout.insta_screen);
             }
         });
         three.setOnClickListener(new View.OnClickListener(){
